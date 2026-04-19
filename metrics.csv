@@ -1,0 +1,6 @@
+Metric,Value
+RMSE (CV),0.9399
+MAE (CV),0.738
+Silhouette Score,0.0013
+n_users,943.0
+n_factors,50.0
